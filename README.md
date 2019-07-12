@@ -1,4 +1,3 @@
-# Deep Level-Set Active Contour (DLAC) Models for Lesion Segmentation 
-Official Repository for Models and Data Presented in DLAC.
+# Deep Active Lesion: End-to-End Deep Level-Sets for Lesion Segmentation
 
 <img src="./imgs/example.png" width="100%">
